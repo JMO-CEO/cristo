@@ -13,7 +13,7 @@
 - 2026-09 Lindon Temple cleaning pilot (pending): white jumpsuits 9:45 to 11:45pm, 25 from Midway, frames not glass, pause at the foot, "You are worthy, my son." Link Al Young O Divine Redeemer, never reproduce pixels.
 
 ## Top witnesses that worked
-- (append one line per published draft: date, hook, replies or saves)
+- 2026-09-21: Cleaning the House of the Lord at Midnight (Lindon Temple cleaning pilot draft completed, review-ready)
 
 ## Pipeline facts
 - Public drafts repo: JMO-CEO/cristo (see README-PUSH.md). Text model: google/gemini-3.5-flash-lite. Secret GEMINI_API_KEY must be exported as env GOOGLE_GENERATIVE_AI_API_KEY in the workflow, that is the exact name the Google provider reads. Zero image spend v1: code built SVG/PNG plus prompt packs.

@@ -1,0 +1,1 @@
+At 9:45 PM, twenty-five men in white jumpsuits cleaned wood frames in the unsealed Lindon Temple. Pausing at the foot of the stairs, I heard the quiet whisper: You are worthy, my son. Read the full witness in the Cristo section: https://jaredmoss.substack.com/s/cristo
