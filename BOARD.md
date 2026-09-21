@@ -1,4 +1,4 @@
-# BOARD.md - monthly witness kanban for JMO-CRISTO/cristo-substack
+# BOARD.md - monthly witness kanban for JMO-CEO/cristo
 
 Read To Do This Month before starting any work. Move the card when done.
 
