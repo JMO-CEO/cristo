@@ -20,6 +20,8 @@ Source order (follow it):
 
 Respect rule: when the moment holds another faith's teaching (reincarnation pattern), find one fair source representing it accurately, linked, 1 line. Understanding before answering, always.
 
+Music scout: find 2 to 3 Substack musicians whose recent pieces fit the month's move. Starter shortlist: Contemplative Cadences, Piano and Prayer, Praying at the Piano, lady chapel, Walking Hymnal. Output per musician: name, Substack link, 1-line fit, 1 candidate track. No YouTube-first or label artists. Under 100 words for this section.
+
 Rules:
 - Budget: max 3 web searches per run, then stop and write from what you have.
 - Every item gets a URL. Quote caps: 2 verses scripture, 2 lines conference, 2 lines scholar. More is the writer's job with links, not yours.

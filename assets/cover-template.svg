@@ -1,11 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1456" height="816" viewBox="0 0 1456 816">
-  <!-- cristo-substack monthly cover template v0 (NOT locked). Replace [HOOK] and [SUBLINE] per run. -->
+  <!-- cristo-substack cover template v2 (BRAND v1 LOCKED 2026-09-21). Replace [HOOK], [SUBLINE], [PLACE]. Set MONTH ACCENT per month theme, max 10 percent of frame. Anchors: Alabaster collection, Tebow Foundation. -->
   <defs>
     <linearGradient id="beam" x1="0" y1="0" x2="1" y2="0">
       <stop offset="0%" stop-color="#C9A86A" stop-opacity="0"/>
       <stop offset="50%" stop-color="#C9A86A" stop-opacity="0.18"/>
       <stop offset="100%" stop-color="#C9A86A" stop-opacity="0"/>
     </linearGradient>
+    <!-- MONTH ACCENT: swap #0A0328 for the month theme color. Lindon: temple-night navy #0A0328. Resurrection: dawn gold #C9A86A at 0.25 opacity. Grief: muted slate blue #4A5A7A. -->
+    <rect id="month-accent" width="1456" height="816" fill="#0A0328" opacity="0"/>
   </defs>
   <rect width="1456" height="816" fill="#FFFFFF"/>
   <rect x="560" y="0" width="336" height="816" fill="url(#beam)"/>

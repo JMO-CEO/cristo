@@ -26,13 +26,13 @@ This folder is the full contents of the public repo. The private JV OS repo stay
 
 ## 5. Test before the monthly run
 1. Actions tab, pick Monthly Witness, press Run workflow.
-2. Wait for green check, then open the Pull requests tab and review the 8 files in cristo/YYYY-MM.
+2. Wait for green check, then open the Pull requests tab and review the 9 files in cristo/YYYY-MM.
 3. The schedule fires on the 25th monthly as a reminder. Your real trigger is manual Run workflow on the Sunday you build.
 
 ## What lives here
 - .github/workflows/monthly-witness.yml: the always on runner, PC off safe.
 - .opencode/agents plus commands plus skills: cristo copies. persuasion-coach and EMPIRE substack-visual are intentionally NOT vendored here so business copy can never leak into testimony.
 - prompts: short entry prompts plus orchestrate.md used by the Action.
-- assets/cover-template.svg plus scripts/render-cover.py: zero spend visual builder, reverent v0 tokens.
+- assets/cover-template.svg plus scripts/render-cover.py: zero spend visual builder, reverent v1 tokens with month accent.
 - inbox/: drop daily journal entries here during the month. Never published verbatim.
 - Substack/examples: empty until the Lindon pilot ships, then the pilot becomes anchor 1.

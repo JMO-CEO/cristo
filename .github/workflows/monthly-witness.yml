@@ -56,7 +56,7 @@ jobs:
             ${{ inputs.journal }}
             ---
             Follow prompts/orchestrate.md exactly, all seven phases inline: mine, research, ideate, article, teaser, visual, gate plus meta.
-            Brand v0 (not locked): Temple White #FFFFFF, Parchment #F5F0E6, Deep Night #1A1A2E, Gold #C9A86A hairlines. Reverent serif headlines, Montserrat subtext. Protest Guerrilla, Carter One, Last Shuriken banned.
+            Brand v1 LOCKED 2026-09-21 (no mantra, no YouTube): Temple White #FFFFFF, Parchment #F5F0E6, Deep Night #1A1A2E, Gold #C9A86A hairlines, one month accent max 10 percent. Reverent serif headlines, Montserrat subtext. Protest Guerrilla, Carter One, Last Shuriken banned.
             Bans: never generate the face of Christ. Never reproduce copyrighted paintings. Link and describe only.
             Never push secrets. Work on the checked-out files; do not push directly. Partial files beat no files.
 

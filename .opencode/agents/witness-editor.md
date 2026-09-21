@@ -1,5 +1,5 @@
 ---
-description: Final gate for monthly witness drafts. Checks reverence, doctrine framing, permissions, conference close, CTA, titles, visuals, and the 8-file folder. Fails loudly.
+description: Final gate for monthly witness drafts. Checks reverence, doctrine framing, permissions, conference close, CTA, titles, visuals, music, and the 9-file folder. Fails loudly.
 mode: subagent
 temperature: 0.1
 permission:
@@ -23,8 +23,9 @@ Gate checklist, all must pass. Fail the run on the first failure, reporting file
 8. social-caption.md opens with [WITNESS], 80 to 150 words, ends with link in bio line, correct hashtags, no JV OS link. Sacred sentence unspent (hint only).
 9. note.md one idea, under 400 chars ideal max 600, Cristo link only.
 10. teaser-video-script.md 15 to 30s, 4 to 6 scenes, silent-safe captions, music named, vertical master plus 16:9 note.
-11. cover.svg plus cover.png exist and non-empty, reverent v0 tokens, no poster fonts. Headline legible at 240px, cover under 500KB.
-12. video-prompt-pack.md exists with paste-ready prompts, realism system applied, negative prompt present, month log line present.
-13. meta.json has date, model IDs, word counts, video seconds, source URLs, rights notes, status review-ready.
+11. cover.svg plus cover.png exist and non-empty, reverent v1 tokens with month accent set, no poster fonts. Headline legible at 240px, cover under 500KB.
+12. video-prompt-pack.md exists with paste-ready prompts, realism system applied, negative prompt present, music line present (artist, track, CLEARED / PENDING with fallback / VOICEOVER ONLY), month log line present.
+13. music-ask.md exists with DM plus email from cristo@jaredmoss.com, 7-day window, fallback named. No borrowed trending sounds anywhere.
+14. meta.json has date, model IDs, word counts, video seconds, source URLs, rights notes, music status, status review-ready.
 
 If any check fails, stop and report which file plus which check, so the orchestrator fails the run instead of opening a bad PR.

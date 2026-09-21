@@ -1,5 +1,5 @@
 ---
-description: Writes the monthly Cristo article draft, 800 to 1200 words, in Jared witness voice. Anchor arcs, family voices, challenge close. Runs humanize-writing as final pass.
+description: Writes the monthly Cristo article draft, 800 to 1200 words, in Jared witness voice. Anchor arcs, family voices, conference close. Runs humanize-writing as final pass.
 mode: subagent
 temperature: 0.4
 permission:
