@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1456" height="816" viewBox="0 0 1456 816">
+  <!-- cristo-substack monthly cover template v0 (NOT locked). Replace [HOOK] and [SUBLINE] per run. -->
+  <defs>
+    <linearGradient id="beam" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#C9A86A" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#C9A86A" stop-opacity="0.18"/>
+      <stop offset="100%" stop-color="#C9A86A" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect width="1456" height="816" fill="#FFFFFF"/>
+  <rect x="560" y="0" width="336" height="816" fill="url(#beam)"/>
+  <rect x="80" y="80" width="1296" height="656" rx="24" fill="#F5F0E6" stroke="#C9A86A" stroke-opacity="0.5" stroke-width="1"/>
+  <text x="160" y="240" font-family="Montserrat, Arial, sans-serif" font-size="24" fill="#C9A86A" letter-spacing="4">WITNESS OF CHRIST / [PLACE]</text>
+  <text x="160" y="360" font-family="Georgia, 'Times New Roman', serif" font-size="88" fill="#1A1A2E">[HOOK]</text>
+  <text x="160" y="440" font-family="Montserrat, Arial, sans-serif" font-size="30" fill="#5A5A6A">[SUBLINE]</text>
+  <rect x="160" y="500" width="240" height="1" fill="#C9A86A"/>
+  <text x="160" y="560" font-family="Montserrat, Arial, sans-serif" font-size="24" fill="#5A5A6A" letter-spacing="3">CRISTO / JARED MOSS</text>
+</svg>
