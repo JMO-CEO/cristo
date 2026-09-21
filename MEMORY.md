@@ -2,7 +2,7 @@
 
 ## Voice
 - Reverent, plain, specific. First person witness. Never hedge. Never use em dashes. No emojis in published copy.
-- CTA is always the Cristo section https://jaredmoss.substack.com/s/cristo plus reply to cristo@jaredmoss.com. Mid plus end in the article. Never the JV OS beta CTA here.
+- CTA is always the Cristo section https://jaredmoss.substack.com/s/cristo plus reply to cristo@jaredmoss.com. End of article only, never mid article. Never the JV OS beta CTA here.
 
 ## Brand v0 (PROPOSED, not locked, refine after scaffold)
 - Canvas Temple White #FFFFFF, cards Warm Parchment #F5F0E6, ink Deep Night #1A1A2E, body Soft Gray #5A5A6A, accent Muted Gold #C9A86A hairlines only.

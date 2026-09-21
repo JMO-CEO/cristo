@@ -22,7 +22,7 @@ Note: under 400 chars ideal max 600, one idea, hook plus one line plus quiet rep
 On-screen cards: 4 to 6 cards, each under 8 words, silent-safe.
 
 ## 3. Article assist (800 to 1200 words)
-Hook in first 3 lines. Subheads for air. Varied sentences, contractions, active voice. Sources linked. Pull quotes marked. Mid plus end Cristo CTA. P.S. reply line in Jared voice.
+Hook in first 3 lines. Subheads for air. Varied sentences, contractions, active voice. Sources linked. Pull quotes marked. End-only Cristo CTA, zero mid-article links. P.S. reply line in Jared voice.
 
 ## 4. Ethics guardrails
 Real numbers and places only. Withhold private names unless cleared. No sensationalized worthiness language. No invented revelation. No manufactured urgency. If a claim would fail a screenshot test by a family member present, cut it.

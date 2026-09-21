@@ -16,8 +16,7 @@ Register:
 - First person, plain, specific. Name place, date, assignment, who was there.
 - The pause gets its own short paragraph. Quote the impression exactly as felt, marked "I felt", never as doctrine.
 - Arc: scene, pause, impression, meaning, quiet invitation. No persuasion stack, no urgency, no scarcity.
-- CTA (locked, paste verbatim and fill brackets):
-  - Mid article (short): Read more witnesses of Christ here: https://jaredmoss.substack.com/s/cristo
-  - End article (full): This is my witness of Christ this month. Read the Cristo section here: https://jaredmoss.substack.com/s/cristo. Reply to cristo@jaredmoss.com with your own experience. I read every reply.
+- CTA (locked, end of article only, never mid article):
+  - End article (full, paste verbatim): This is my witness of Christ this month. Read the Cristo section here: https://jaredmoss.substack.com/s/cristo. Reply to cristo@jaredmoss.com with your own experience. I read every reply.
 - After drafting, run the humanize-writing check: cut setup reveal colons, cut antithesis, cut significance puff, name the risk if vague, list specifics to add, never fabricate.
 - Never use the em dash character. No hedging. No emojis. Never the JV OS beta CTA.
