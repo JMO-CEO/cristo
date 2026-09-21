@@ -1,6 +1,10 @@
 # inbox: daily journal drops for the monthly witness
 
-Drop 1 file per day or 1 file per week, your call. Plain markdown or pasted text.
+Two ways to feed the miner. Pick one per month.
+
+Option A (recommended, no git): open your Google Doc journal, copy the month excerpt (300 to 800 words) plus a 5-line Sunday context, and paste it into the `journal` box on the Actions tab when you press Run workflow for Monthly Witness. Nothing to commit.
+
+Option B (files): drop entries here as `YYYY-MM-DD.md` and push to main before dispatching. The miner reads them as backup.
 
 Naming: `YYYY-MM-DD.md` (example: `2026-09-16.md`).
 

@@ -4,6 +4,12 @@ on:
   schedule:
     - cron: "0 13 25 * *" # 25th monthly, 7am Denver in UTC. Reminder run. Sunday manual dispatch is the primary trigger.
   workflow_dispatch:
+    inputs:
+      journal:
+        description: "Paste the month journal excerpt from your Google Doc (300 to 800 words) plus 5-line Sunday context. Redacted only, this text ships into the draft PR."
+        required: false
+        type: textarea
+        default: ""
 
 concurrency:
   group: monthly-witness
@@ -44,7 +50,11 @@ jobs:
           use_github_token: true
           prompt: |
             Solo run in this repo, ONE session, never delegate, Task tool is disabled.
-            Month for this run: ${{ steps.rundate.outputs.month }}. Use folder cristo/${{ steps.rundate.outputs.month }}. Source journal lives in inbox/.
+            Month for this run: ${{ steps.rundate.outputs.month }}. Use folder cristo/${{ steps.rundate.outputs.month }}. Source journal lives in inbox/ plus the pasted excerpt below.
+            Pasted journal excerpt plus Sunday context (may be empty on scheduled runs, then mine inbox/ only):
+            ---
+            ${{ inputs.journal }}
+            ---
             Follow prompts/orchestrate.md exactly, all seven phases inline: mine, research, ideate, article, teaser, visual, gate plus meta.
             Brand v0 (not locked): Temple White #FFFFFF, Parchment #F5F0E6, Deep Night #1A1A2E, Gold #C9A86A hairlines. Reverent serif headlines, Montserrat subtext. Protest Guerrilla, Carter One, Last Shuriken banned.
             Bans: never generate the face of Christ. Never reproduce copyrighted paintings. Link and describe only.

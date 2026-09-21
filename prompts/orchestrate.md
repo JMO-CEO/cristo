@@ -8,7 +8,7 @@ Request budget, hard limits. Exceed these and the run dies:
 - Never run the same failing call twice. On any API 429, wait 60 seconds with sleep 60, then continue. Max 2 waits, then write from what you have.
 
 Phases, in order, all inline:
-1. Mine: read inbox/YYYY-MM plus pasted Sunday context. Write the moment-card (what happened, the pause, the impression as "I felt", what you will not claim, specifics to add). Never invent revelation.
+1. Mine: read inbox/YYYY-MM plus the pasted journal excerpt plus Sunday context from the run prompt (dispatch input). Prefer the pasted excerpt when present. Write the moment-card (what happened, the pause, the impression as "I felt", what you will not claim, specifics to add). Never invent revelation.
 2. Research: max 2 websearches for 2 to 4 scriptures plus 1 conference quote max plus artwork link with rights note (linked, never reproduced). Cite URLs.
 3. Ideate: load witness-coach. 3 titles under 70 chars, subtitle under 140, hook for first 2 lines, outline (scene, pause, impression, meaning, quiet invitation), Cristo CTA mid plus end.
 4. Article: load witness-coach, cristo-voice, then humanize-writing. Write 800 to 1200 words plus metadata block to cristo/YYYY-MM/article-draft.md. Hook in first 3 lines. No hedging, no em dashes, no emojis. No JV OS beta CTA.
