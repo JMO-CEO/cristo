@@ -8,15 +8,15 @@ Read To Do This Month before starting any work. Move the card when done.
 - [ ] Improve video prompts month over month (log what worked in MEMORY.md)
 
 ## To Do This Month
-- [ ] Monthly witness YYYY-MM: article + social caption + Note + 15 to 30s teaser script + visual set + packs + meta
+- [ ] (none for this month)
 
 ## Doing in Actions
 - (empty, run moves card here on start)
 
 ## In Review PR
-- (empty)
+- [x] 2026-09 Lindon Temple cleaning article + teaser set (review-ready)
 
 ## Done Published
 - (empty, pilot goes here after merge)
 
-Scoreboard: witnesses published 0, replies this month 0, video iterations logged 0.
+Scoreboard: witnesses published 0, replies this month 0, video iterations logged 1.

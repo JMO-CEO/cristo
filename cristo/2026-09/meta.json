@@ -1,0 +1,16 @@
+{
+  "date": "2026-09-25",
+  "month": "2026-09",
+  "title": "Midnight Cleaning at the Lindon Temple",
+  "model_id": "google/gemini-3.5-flash-lite",
+  "word_count_article": 855,
+  "video_seconds": 20,
+  "source_urls": [
+    "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/121",
+    "https://www.churchofjesuschrist.org/study/scriptures/bofm/mosiah/2",
+    "https://alyoung.com/"
+  ],
+  "rights_notes": "Artwork linked only (Al Young, O Divine Redeemer), never reproduced.",
+  "music_status": "Contemplative Cadences - Quiet Footfalls (requested via 7-day Substack musician workflow)",
+  "status": "review-ready"
+}

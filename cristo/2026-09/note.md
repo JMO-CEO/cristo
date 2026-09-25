@@ -1,0 +1,1 @@
+Twenty-five men in white jumpsuits. Midnight cleaning at the Lindon Temple. True priesthood power is found in the quiet, unseen acts of devotion where only God's eyes rest. Read the full witness in the Cristo section: https://jaredmoss.substack.com/s/cristo
