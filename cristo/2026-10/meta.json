@@ -1,0 +1,17 @@
+{
+  "date": "2026-10",
+  "model_text": "google/gemini-3.5-flash-lite",
+  "word_counts": {
+    "article": 854,
+    "caption": 88,
+    "note": 42
+  },
+  "video_seconds": 24,
+  "sources": [
+    "https://www.churchofjesuschrist.org/study/general-conference/2023/10?lang=eng",
+    "Doctrine and Covenants 84:19-22"
+  ],
+  "rights_notes": "Original personal witness journal entry. Alabaster collection style referenced without reproduction. Art links described, no copyrighted images reproduced.",
+  "music_status": "PENDING - Contemplative Cadences (7-day window, fallback Meta Sound Collection)",
+  "status": "review-ready"
+}
